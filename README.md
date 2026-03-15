@@ -123,7 +123,25 @@ else:
 
 # Output : 
 ```
-https://private-user-images.githubusercontent.com/227108188/557398715-8e65d9f8-74a0-49cd-8c45-530d6a5490cc.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM1ODIzNjUsIm5iZiI6MTc3MzU4MjA2NSwicGF0aCI6Ii8yMjcxMDgxODgvNTU3Mzk4NzE1LThlNjVkOWY4LTc0YTAtNDljZC04YzQ1LTUzMGQ2YTU0OTBjYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxNVQxMzQxMDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01Y2MxYWFlYjFhNDlkZjk4MTBjY2MxYTY1MDQxMDRiYTY1YWFkZGYzOTQxNGZmODUzOTZmMzI1NGNlNDFmMjVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WR6lgd0C-Tz14WkDBDviDHvBHGQoAZsDcywy4XDf7ds
+1 2 3 4 5 6 7 8 9 10
+X P(X=x) Obs.Fr Exp.Fr xi
+--------------------------
+0.00 0.004 0.00 0.04 0.04
+1.00 0.022 1.00 0.22 2.67
+2.00 0.062 1.00 0.62 0.24
+3.00 0.113 1.00 1.13 0.02
+4.00 0.156 1.00 1.56 0.20
+5.00 0.171 1.00 1.71 0.30
+6.00 0.157 1.00 1.57 0.21
+7.00 0.123 1.00 1.23 0.04
+8.00 0.085 1.00 0.85 0.03
+9.00 0.052 1.00 0.52 0.45
+10.00 0.029 1.00 0.29 1.79
+--------------------------
+Calculated value of Chi square is 5.98
+Table value of chi square at 1 level is 23.21
+The given data can be fitted in poisson Distribution at 1% LOS
+
 ```
 
 # Results
